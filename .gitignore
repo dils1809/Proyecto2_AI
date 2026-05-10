@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+results/gifs/*.gif
+results/plots/*.png
+results/data/*.csv
+*.zip
+*.rar
